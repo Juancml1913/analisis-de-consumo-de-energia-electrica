@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/analisis-de-consumo-de-energia-electrica/static/css/main.e6c13ad2.css",
-    "main.js": "/analisis-de-consumo-de-energia-electrica/static/js/main.5a98666c.js",
+    "main.js": "/analisis-de-consumo-de-energia-electrica/static/js/main.88f2221d.js",
     "static/js/787.d30c1464.chunk.js": "/analisis-de-consumo-de-energia-electrica/static/js/787.d30c1464.chunk.js",
     "index.html": "/analisis-de-consumo-de-energia-electrica/index.html",
     "main.e6c13ad2.css.map": "/analisis-de-consumo-de-energia-electrica/static/css/main.e6c13ad2.css.map",
-    "main.5a98666c.js.map": "/analisis-de-consumo-de-energia-electrica/static/js/main.5a98666c.js.map",
+    "main.88f2221d.js.map": "/analisis-de-consumo-de-energia-electrica/static/js/main.88f2221d.js.map",
     "787.d30c1464.chunk.js.map": "/analisis-de-consumo-de-energia-electrica/static/js/787.d30c1464.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.5a98666c.js"
+    "static/js/main.88f2221d.js"
   ]
 }
